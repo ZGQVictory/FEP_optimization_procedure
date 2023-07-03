@@ -1,0 +1,50 @@
+sending incremental file list
+created directory t1
+equilibrate.coor
+equilibrate.vel
+equilibrate.xsc
+fep.namd
+fep.tcl
+
+sent 3.36M bytes  received 136 bytes  6.73M bytes/sec
+total size is 3.36M  speedup is 1.00
+sending incremental file list
+created directory t2
+equilibrate.coor
+equilibrate.vel
+equilibrate.xsc
+fep.namd
+fep.tcl
+
+sent 3.36M bytes  received 136 bytes  6.73M bytes/sec
+total size is 3.36M  speedup is 1.00
+sending incremental file list
+created directory t3
+equilibrate.coor
+equilibrate.vel
+equilibrate.xsc
+fep.namd
+fep.tcl
+
+sent 3.36M bytes  received 136 bytes  6.73M bytes/sec
+total size is 3.36M  speedup is 1.00
+sending incremental file list
+created directory t4
+equilibrate.coor
+equilibrate.vel
+equilibrate.xsc
+fep.namd
+fep.tcl
+
+sent 3.36M bytes  received 136 bytes  6.73M bytes/sec
+total size is 3.36M  speedup is 1.00
+sending incremental file list
+created directory t5
+equilibrate.coor
+equilibrate.vel
+equilibrate.xsc
+fep.namd
+fep.tcl
+
+sent 3.36M bytes  received 136 bytes  6.73M bytes/sec
+total size is 3.36M  speedup is 1.00
