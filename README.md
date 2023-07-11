@@ -13,6 +13,10 @@ For a trivial process of the common FEP step, we'd like to follow the steps as f
   8. alchemify
   9. execute in the NAMD
 
+## Notice
+
+You need to be clear about the size of the box! If you haven't tested before, things might be wrong. By default, it is the size of the Gad65 pMHC complex.
+
 ## Command :
 For p-MHC system about mutating residues of the peptide, we construct a automatical procedure:
 
