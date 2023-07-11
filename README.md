@@ -28,6 +28,12 @@ For p-MHC system about mutating residues of the peptide, we construct a automati
   
     python mutate_res.py
 
+Then send it to the 128 cluster.
+
+run the command:
+
+  python 28_slurm_execute.py
+
 ## What u need :
 
 1. Linux system
