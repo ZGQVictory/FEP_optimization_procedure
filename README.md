@@ -32,7 +32,7 @@ Then send it to the 128 cluster.
 
 run the command:
 
-  python 28_slurm_execute.py
+    python 28_slurm_execute.py
 
 ## What u need :
 
